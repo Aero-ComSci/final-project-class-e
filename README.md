@@ -1,4 +1,5 @@
-Description\n:
+Description:
+
 **Who is the code for?**
 
 This app is mainly used for entertainment for someone who is bored or has nothing to do. It's like one of those random "What is your Disney Princess?" kind of tests.
